@@ -8,7 +8,7 @@
   "server": {
     "ip": "Oussil2.aternos.me",
     "port": 38432,
-    "version": "false"
+    "version": "auto"
   },
   "position": {
     "enabled": true,
